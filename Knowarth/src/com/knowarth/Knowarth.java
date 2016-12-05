@@ -4,9 +4,9 @@ public class Knowarth {
 
 	public static void main(String[] args) {
 	
-		System.out.println("hello");
+		int x=10;
 		System.out.println("Shyam Vadera");
-		
+		System.out.println("hello");
 	}
 
 }
