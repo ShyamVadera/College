@@ -3,10 +3,10 @@ package com.knowarth;
 public class Knowarth {
 
 	public static void main(String[] args) {
-		int x=10;
-		x=10+5;
-		System.out.println(x);
-		System.out.println("hello"+x);
+		int y=10;
+		y=10+5;
+		System.out.println(y);
+		System.out.println("hello"+y);
 	}
 
 }
